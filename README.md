@@ -1,6 +1,8 @@
-# base64-using-django
+# Base64-Encoder-And-Decoder
+
 base64 using Django encrypt and decrypt
 
+A built-in module in Python, the base64 library offers functions for encoding and decoding binary data to and from base64 strings, effectively converting any binary data to plain text. A common encoding method called Base64 converts binary data into a string of printable ASCII characters
 
 ```
 import base64
